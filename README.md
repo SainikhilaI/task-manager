@@ -26,3 +26,5 @@ taskmanager/
     ├── parser/      # TaskParser, BreakdownStrategy, ParserFactory, LlmClient, FakeLlmClient, FaultyLlmClient, SimpleJson
     ├── repository/  # TaskRepository, InMemoryTaskRepository (Singleton), IdempotencyStore (Singleton)
     └── service/     # TaskService, TaskFilter implementations, SortStrategy implementations
+## Submission
+Ready for review.
